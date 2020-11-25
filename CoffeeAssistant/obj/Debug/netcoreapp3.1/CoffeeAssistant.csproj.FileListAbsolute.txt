@@ -22,3 +22,15 @@ C:\Users\Student\David Felson\David Felson side projects\CoffeeAssistant\CoffeeA
 C:\Users\Student\David Felson\David Felson side projects\CoffeeAssistant\CoffeeAssistant\obj\Debug\netcoreapp3.1\CoffeeAssistant.AssemblyInfo.cs
 C:\Users\Student\David Felson\David Felson side projects\CoffeeAssistant\CoffeeAssistant\obj\Debug\netcoreapp3.1\CoffeeAssistant.dll
 C:\Users\Student\David Felson\David Felson side projects\CoffeeAssistant\CoffeeAssistant\obj\Debug\netcoreapp3.1\CoffeeAssistant.pdb
+C:\Users\Student\David Felson\David Felson side projects\Coffee-Assistant\CoffeeAssistant\bin\Debug\netcoreapp3.1\CoffeeAssistant.exe
+C:\Users\Student\David Felson\David Felson side projects\Coffee-Assistant\CoffeeAssistant\bin\Debug\netcoreapp3.1\CoffeeAssistant.deps.json
+C:\Users\Student\David Felson\David Felson side projects\Coffee-Assistant\CoffeeAssistant\bin\Debug\netcoreapp3.1\CoffeeAssistant.runtimeconfig.json
+C:\Users\Student\David Felson\David Felson side projects\Coffee-Assistant\CoffeeAssistant\bin\Debug\netcoreapp3.1\CoffeeAssistant.runtimeconfig.dev.json
+C:\Users\Student\David Felson\David Felson side projects\Coffee-Assistant\CoffeeAssistant\bin\Debug\netcoreapp3.1\CoffeeAssistant.dll
+C:\Users\Student\David Felson\David Felson side projects\Coffee-Assistant\CoffeeAssistant\bin\Debug\netcoreapp3.1\CoffeeAssistant.pdb
+C:\Users\Student\David Felson\David Felson side projects\Coffee-Assistant\CoffeeAssistant\obj\Debug\netcoreapp3.1\CoffeeAssistant.csprojAssemblyReference.cache
+C:\Users\Student\David Felson\David Felson side projects\Coffee-Assistant\CoffeeAssistant\obj\Debug\netcoreapp3.1\CoffeeAssistant.csproj.CoreCompileInputs.cache
+C:\Users\Student\David Felson\David Felson side projects\Coffee-Assistant\CoffeeAssistant\obj\Debug\netcoreapp3.1\CoffeeAssistant.AssemblyInfoInputs.cache
+C:\Users\Student\David Felson\David Felson side projects\Coffee-Assistant\CoffeeAssistant\obj\Debug\netcoreapp3.1\CoffeeAssistant.AssemblyInfo.cs
+C:\Users\Student\David Felson\David Felson side projects\Coffee-Assistant\CoffeeAssistant\obj\Debug\netcoreapp3.1\CoffeeAssistant.dll
+C:\Users\Student\David Felson\David Felson side projects\Coffee-Assistant\CoffeeAssistant\obj\Debug\netcoreapp3.1\CoffeeAssistant.pdb

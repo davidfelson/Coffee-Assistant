@@ -50,8 +50,8 @@ namespace CoffeeAssistant
                 {
                     Console.WriteLine("\r\nAeropress or Chemex might be better for such a small group. If you want to try these brew methods, press (A) for Aeropress or (C) for Chemex");
                     string revisedBrewMethod = Console.ReadLine();
-                    
-                    if (revisedBrewMethod == "A") 
+
+                    if (revisedBrewMethod == "A")
                     {
                         Console.WriteLine("\r\nGreat choice for early morning reading!");
                         Console.WriteLine("You'll need 18 grams of coffee at grind size 15 and 200 mL filtered water.");
@@ -66,36 +66,9 @@ namespace CoffeeAssistant
 
                 }
 
-                if (numberPeopleDrinkingCoffee == 3)
-                {
-                    Console.WriteLine($"You'll need {gramsCoffeePerPerson * numberPeopleDrinkingCoffee} grams of coffee at grind size 18 and {mlWaterPerPerson * numberPeopleDrinkingCoffee} mL filtered water.");
-                }
+                else Console.WriteLine($"You'll need {gramsCoffeePerPerson * numberPeopleDrinkingCoffee} grams of coffee at grind size 18 and {mlWaterPerPerson * numberPeopleDrinkingCoffee} mL filtered water.");
 
-                if (numberPeopleDrinkingCoffee == 4)
-                {
-                    Console.WriteLine($"You'll need {gramsCoffeePerPerson * numberPeopleDrinkingCoffee} grams of coffee at grind size 18 and {mlWaterPerPerson * numberPeopleDrinkingCoffee} mL filtered water.");
-                }
 
-                if (numberPeopleDrinkingCoffee == 5)
-                {
-                    Console.WriteLine($"You'll need {gramsCoffeePerPerson * numberPeopleDrinkingCoffee} grams of coffee at grind size 18 and {mlWaterPerPerson * numberPeopleDrinkingCoffee} mL filtered water.");
-                }
-
-                if (numberPeopleDrinkingCoffee == 6)
-                {
-                    Console.WriteLine($"You'll need {gramsCoffeePerPerson * numberPeopleDrinkingCoffee} grams of coffee at grind size 18 and {mlWaterPerPerson * numberPeopleDrinkingCoffee} mL filtered water.");
-                }
-
-                if (numberPeopleDrinkingCoffee == 7)
-                {
-                    Console.WriteLine($"You'll need {gramsCoffeePerPerson * numberPeopleDrinkingCoffee} grams of coffee at grind size 18 and {mlWaterPerPerson * numberPeopleDrinkingCoffee} mL filtered water.");
-                }
-
-                if (numberPeopleDrinkingCoffee >= 8)
-                {
-                    Console.WriteLine("Maybe you should go out. Here's a list of amazing local coffee shops near you.");
-
-                }
 
             }
 
@@ -116,7 +89,7 @@ namespace CoffeeAssistant
                     Console.WriteLine("Let's take a break from coding and go for a walk. Rising Star is a 4-minute walk from your desk");
                 }
 
-                if (chosenCoffeeShop == "2")
+                else if (chosenCoffeeShop == "2")
                 {
                     Console.WriteLine("Let's take a break from coding and go for a walk. Phenoix Coffee is a 6-minute walk from your desk");
                 }
